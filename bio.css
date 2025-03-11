@@ -1,0 +1,51 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+body {
+font-family: 'Arial', sans-serif;
+line-height: 1.6;
+padding: 20px;
+background-color: #f4f4f4;
+}
+header {
+text-align: center;
+margin-bottom: 20px;
+}
+.profile-img {
+width: 150px;
+height: auto;
+border-radius: 50%;
+}
+
+ul {
+
+   display: inline-block;
+}
+
+h1 {
+    margin-top: 10px;
+    }
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #996644;
+}
+.bio, .projects {
+    margin-bottom: 20px;
+    }
+a {
+    color: #333;
+    text-decoration: none;
+    }
+footer {
+    text-align: center;
+    margin-top: 20px;
+    }
+a:hover {
+        text-decoration: underline;
+    }
+
