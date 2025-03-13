@@ -11,6 +11,13 @@ line-height: 1.6;
 padding: 20px;
 background-color: #f4f4f4;
 }
+
+#profile {
+    background-color: #10a6cc;
+    max-width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
 header {
 text-align: center;
 margin-bottom: 20px;
@@ -19,6 +26,7 @@ margin-bottom: 20px;
 width: 150px;
 height: 150px;
 border-radius: 50%;
+margin: 10px;
 }
 
 #banner {
@@ -28,8 +36,8 @@ border-radius: 50%;
     margin-right: auto;
 }
 ul {
-
-   display: inline-block;
+    display: inline-block;
+    list-style-type: none;
 }
 
 h1 {
@@ -54,5 +62,6 @@ footer {
     }
 a:hover {
         text-decoration: underline;
+        
     }
 
